@@ -96,11 +96,14 @@
 
 
 <h2 id="connect">🌍 Connect With Me</h2>
-<ul>
-  <li>📧 Email: <a href="mailto:christianokabanga@gmail.com">christianokabanga@gmail.com</a></li>
-  <li>💻 GitHub: <a href="https://github.com/christianokabanga-del">christianokabanga-del</a></li>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/christiano-kabanga-711b11358">Christiano Kabanga</a></li>
-</ul>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/chrxz.tyano])
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chrxz.tyano3516/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiano-kabanga-711b11358/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@m_chrxz3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
 
 <hr/>
 <p align="center">
@@ -115,12 +118,6 @@
 eginner Software Developer**  
 💻 Learning Python, HTML, CSS, JavaScript, React & C  
 🚀 Passionate about building real-world projects
-
-## 🧑‍💻 About Me
-- 🎓 First-year university student
-- 🌱 Currently learning **Web Development & Programming**
-- 🛠️ Interested in **Software Development & Internships**
-- 📚 Always learning something new
 
 <h2 id="cv">📄 Curriculum Vitae</h2>
 
@@ -180,13 +177,6 @@ eginner Software Developer**
 🔹 *Coming soon…*  
 (I will be uploading my academic and personal projects here)
 
-
-## 📊 Profile Analytics
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=christianokabanga-del&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianokabanga-del&show_icons=true&theme=tokyonight)
 
@@ -196,29 +186,86 @@ eginner Software Developer**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christianokabanga-del&layout=compact&theme=tokyonight)
 
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=christianokabanga-del&theme=tokyonight)
-
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=christianokabanga-del&theme=tokyonight&no-frame=true&row=1)
 
 
-### 📉 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=christianokabanga-del&theme=tokyo-night)
-
-
-## 🌍 Connect With Me
-- 📧 Email: christianokabanga@gmail.com  
-- 💻 GitHub: https://github.com/christianokabanga-del  
-- 💼 LinkedIn: https://www.linkedin.com/in/christiano-kabanga-711b11358  
-
-
 ### 🔗 Quick Navigation
-[About Me](#-about-me) | 
-[Tech Ecosystems](#-tech-ecosystems) | 
-[Projects](#-projects) | 
-[Analytics](#-profile-analytics) | 
-[Connect](#-connect-with-me)
+<div style="
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:10px;
+  margin:20px 0;
+">
+
+  <a href="#-about-me"
+     style="
+       padding:10px 18px;
+       border-radius:6px;
+       background:#2563eb;
+       color:#ffffff;
+       font-weight:600;
+       text-decoration:none;
+       border:1px solid #1e40af;
+     ">
+    About Me
+  </a>
+
+  <a href="#-tech-ecosystems"
+     style="
+       padding:10px 18px;
+       border-radius:6px;
+       background:#2563eb;
+       color:#ffffff;
+       font-weight:600;
+       text-decoration:none;
+       border:1px solid #1e40af;
+     ">
+    Tech Ecosystems
+  </a>
+
+  <a href="#-projects"
+     style="
+       padding:10px 18px;
+       border-radius:6px;
+       background:#2563eb;
+       color:#ffffff;
+       font-weight:600;
+       text-decoration:none;
+       border:1px solid #1e40af;
+     ">
+    Projects
+  </a>
+
+  <a href="#-profile-analytics"
+     style="
+       padding:10px 18px;
+       border-radius:6px;
+       background:#2563eb;
+       color:#ffffff;
+       font-weight:600;
+       text-decoration:none;
+       border:1px solid #1e40af;
+     ">
+    Analytics
+  </a>
+
+  <a href="#-connect-with-me"
+     style="
+       padding:10px 18px;
+       border-radius:6px;
+       background:#2563eb;
+       color:#ffffff;
+       font-weight:600;
+       text-decoration:none;
+       border:1px solid #1e40af;
+     ">
+    Connect
+  </a>
+
+</div>
+
 
 ⭐ **Feel free to explore my repositories and connect with me!**
