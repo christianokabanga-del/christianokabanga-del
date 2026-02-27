@@ -190,6 +190,23 @@ eginner Software Developer**
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=christianokabanga-del&theme=tokyonight&no-frame=true&row=1)
 
+## 🤝 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:{EMAIL})
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/{WHATSAPP})
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://instagram.com/{INSTAGRAM})
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/{LINKEDIN})
+[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/{X_HANDLE})
+[![TikTok](https://img.shields.io/badge/TikTok-View-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@{TIKTOK})
+
+
+# 🏅 Achievements
+
+![AWS](https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-Engineer-blue?style=for-the-badge&logo=microsoftazure)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github)
+
+
 
 ### 🔗 Quick Navigation
 <div style="
