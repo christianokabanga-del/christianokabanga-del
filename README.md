@@ -32,6 +32,32 @@
   <li>🛠️ Passionate about building real-world, problem-solving projects</li>
   <li>🚀 Open to internships, mentorship, and collaborative opportunities</li>
 </ul>
+<p>public class DeveloperProfile {
+
+    public static void main(String[] args) {
+        
+        String username = "christiankabanga-del";
+        String name = "Mangaa";
+        
+        String[] skills = {
+            "Web Development",
+            "AI & ML Engineering",
+            "Cloud Computing"
+        };
+        
+        String[] currentTasks = {
+            "Building agricultural website for farmers",
+            "Training AI to be human friendly 😄",
+            "Designing scalable cloud-native systems",
+            "Exploring distributed architectures",
+            "Automating DevOps pipelines"
+        };
+        
+        String mission = "Build intelligent, scalable and impactful systems.";
+
+        System.out.println("Turning coffee into scalable solutions ☕");
+    }
+}</p>
 
 
 <h2 id="tech-ecosystems">🌐 Tech Ecosystems</h2>
@@ -192,12 +218,12 @@ eginner Software Developer**
 
 ## 🤝 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:{EMAIL})
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:mangaachris32.gmai.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/{WHATSAPP})
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://instagram.com/{INSTAGRAM})
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/{LINKEDIN})
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://instagram.com/https://www.instagram.com/chrxz.tyano)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/christiano-kabanga-711b11358/)
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/{X_HANDLE})
-[![TikTok](https://img.shields.io/badge/TikTok-View-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@{TIKTOK})
+[![TikTok](https://img.shields.io/badge/TikTok-View-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/https://www.tiktok.com/@m_chrxz3)
 
 
 # 🏅 Achievements
