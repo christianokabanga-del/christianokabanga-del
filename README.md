@@ -140,6 +140,7 @@
   <a href="#connect">Connect</a>
 </p>
 
+  
 <p align="center"><strong>⭐ Open to internships, learning, and collaboration</strong></p>
 eginner Software Developer**  
 💻 Learning Python, HTML, CSS, JavaScript, React & C  
