@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hi%20👋,%20I'm%20Christiano%20Kabanga&fontSize=40&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=55"
     width="100%"
@@ -22,26 +22,24 @@
   <img src="https://img.shields.io/badge/Based%20in-Kenya-22C55E?style=for-the-badge"/>
 </p>
 
-<p align="center">
+<p align="center" style="font-size:16px;">
   🎓 Computer Science Student &nbsp;|&nbsp;
   💻 Aspiring Software Engineer &nbsp;|&nbsp;
   🎯 Open to Internships & Entry-Level Roles
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> •
-  <a href="#tech-ecosystems">Tech Stack</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#profile-analytics">Analytics</a> •
-  <a href="#cv">CV</a> •
-  <a href="#connect">Connect</a>
+  <strong>💡 Tech enthusiast and emerging full-stack developer</strong> exploring the intersection of web development,
+  machine learning, and cloud computing. I build clean, functional projects to sharpen real-world engineering skills —
+  and I'm always excited to learn from and build with other developers.
+  <br/><br/>
+  🤝 <strong>Open to collaborations</strong> — internships, open-source contributions, hackathons, and side projects.
+  If you're working on something interesting, let's connect.
 </p>
 
 <hr/>
 
 <h2 id="about-me">🧑‍💻 About Me</h2>
-
 <ul>
   <li>🎓 First-year Computer Science student with strong programming fundamentals</li>
   <li>🌱 Actively learning Web Development, Software Engineering & Machine Learning</li>
@@ -141,7 +139,111 @@ public class DeveloperProfile {
 
 <hr/>
 
-<h2 id="projects">📂 Featured Projects</h2>
+<h2 id="profile-analytics">📊 Profile Analytics</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=christianokabanga-del&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianokabanga-del&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=christianokabanga-del&theme=tokyonight" width="65%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=christianokabanga-del&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianokabanga-del&theme=tokyo-night"/>
+</p>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/christianokabanga-del/christianokabanga-del/output/github-contribution-grid-snake-dark.svg" width="80%"/>
+</p>
+
+<details>
+<summary><b>⚙️ Snake setup (one-time, click to expand)</b></summary>
+<br/>
+
+The snake animation above won't render until you generate it for your repo. Steps:
+
+1. In your profile repo, go to **Settings → Secrets and variables → Actions** — no extra secrets needed, the default token works.
+2. Create `.github/workflows/snake.yml` with:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: christianokabanga-del
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ "{{ secrets.GITHUB_TOKEN }}" }}
+```
+
+3. Commit, push, and run the workflow once manually (Actions tab → Generate Snake → Run workflow).
+4. After it runs, the image URL above will work automatically.
+
+</details>
+
+<hr/>
+
+<h2 id="quotes">💡 Random Quotes by Famous People</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<hr/>
+
+<h2 id="cv">📄 Curriculum Vitae</h2>
+
+<p>
+  🔽 Download my CV:<br/>
+  <a href="REPLACE_WITH_YOUR_CV_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-22C55E?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+</p>
+
+<p><em>Optimized for internships, junior roles & software engineering positions.</em></p>
+
+<hr/>
+
+<h2 id="roadmap">🛣️ Learning Roadmap</h2>
+
+<ul>
+  <li>✅ Programming Fundamentals (Python, C)</li>
+  <li>✅ Frontend (HTML, CSS, JavaScript, React)</li>
+  <li>🔄 Backend & APIs (Node.js, Databases)</li>
+  <li>🔜 Machine Learning & Data Science</li>
+  <li>🔜 Open Source & Internship Experience</li>
+</ul>
+
+<hr/>
+
+<h2 id="projects">📂 Projects</h2>
 
 <table>
   <tr>
@@ -174,66 +276,15 @@ public class DeveloperProfile {
   📁 See all repositories on <a href="https://github.com/christianokabanga-del">my GitHub profile</a>.
 </p>
 
-<p>
-  <em>Want this section to auto-populate with your pinned repos? Add a
-  <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Pin</a> embed once you have 2–3 repos ready to showcase.</em>
-</p>
+### 🔤 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christianokabanga-del&layout=compact&theme=tokyonight)
 
 <hr/>
 
-<h2 id="roadmap">🛣️ Learning Roadmap</h2>
+## 🏅 Achievements
 
-<ul>
-  <li>✅ Programming Fundamentals (Python, C)</li>
-  <li>✅ Frontend (HTML, CSS, JavaScript, React)</li>
-  <li>🔄 Backend & APIs (Node.js, Databases)</li>
-  <li>🔜 Machine Learning & Data Science</li>
-  <li>🔜 Open Source & Internship Experience</li>
-</ul>
-
-<hr/>
-
-<h2 id="profile-analytics">📊 Profile Analytics</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=christianokabanga-del&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianokabanga-del&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=christianokabanga-del&theme=tokyonight" width="65%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=christianokabanga-del&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianokabanga-del&theme=tokyo-night"/>
-</p>
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<hr/>
-
-<h2 id="quotes">💡 Quote of the Day</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-<hr/>
-
-<h2 id="cv">📄 Curriculum Vitae</h2>
-
-<p>
-  🔽 Download my CV:<br/>
-  <a href="REPLACE_WITH_YOUR_CV_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CV-22C55E?style=for-the-badge&logo=google-drive&logoColor=white"/>
-  </a>
-</p>
-
-<p><em>Optimized for internships, junior roles & software engineering positions.</em></p>
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-22C55E?style=for-the-badge)
 
 <hr/>
 
@@ -266,15 +317,18 @@ public class DeveloperProfile {
   </a>
 </p>
 
+<p><sub>⚠️ Your WhatsApp number is public on this badge — anyone viewing your profile can see and message it. If you'd rather keep it private, swap this badge for email or LinkedIn instead.</sub></p>
 
 <hr/>
 
+### 🔗 Quick Navigation
 <p align="center">
-  <a href="#about-me">About</a> |
-  <a href="#tech-ecosystems">Tech</a> |
-  <a href="#projects">Projects</a> |
-  <a href="#roadmap">Roadmap</a> |
-  <a href="#profile-analytics">Analytics</a> |
+  <a href="#about-me">About Me</a> •
+  <a href="#tech-ecosystems">Tech Ecosystems</a> •
+  <a href="#profile-analytics">Analytics</a> •
+  <a href="#cv">CV</a> •
+  <a href="#roadmap">Roadmap</a> •
+  <a href="#projects">Projects</a> •
   <a href="#connect">Connect</a>
 </p>
 
