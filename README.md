@@ -114,7 +114,7 @@ public class DeveloperProfile {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,js,html,css,react,nodejs,git,github,vscode,figma,mysql&theme=dark" />
-</p>
+</p> 
 
 <h3>💻 Programming Languages</h3>
 <p>
@@ -159,7 +159,7 @@ public class DeveloperProfile {
 </p>
 
 <h3 align="center">🐍 Contribution Snake</h3>
-
+ 
 <p align="center">
   <img src="https://raw.githubusercontent.com/christianokabanga-del/christianokabanga-del/output/github-contribution-grid-snake-dark.svg" width="80%"/>
 </p>
